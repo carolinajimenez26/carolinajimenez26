@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](header.png "Header")](https://carolinajimenez26.github.io/index)
 
 <!--
 **carolinajimenez26/carolinajimenez26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
