@@ -17,13 +17,21 @@ Here are some ideas to get you started:
 
 
 <!-- <h1 align="center">Hi 👋, I'm Carolina Jimenez Gomez</h1> -->
-<p align="center">I'm Software Engineer with experience writing, debugging and testing code. Fast learner, hard working, willing to level up my career improving my skills and learning new things. I like encouraging people and teaching them what I know.</p>
+<h5 align="center">I'm Software Engineer with experience writing, debugging and testing code. Fast learner, hard working, willing to level up my career improving my skills and learning new things. I like encouraging people and teaching them what I know.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinajimenez26" alt="carolinajimenez26" /> </p>
+<h3> In the past I've built 👩‍💻: </h3>
+
+- __[A SSL Certificate Viewer](https://wiki.mozilla.org/Firefox_Security_Newsletter/FSN-2019#Firefox_Security) for Mozilla Firefox 🦊__. As an internship project there. (Tip: if you can see the project landed searching for _about:certificate_ in Firefox 🔥)
+
+- __A mobile application for Truck Drivers 📱🚚__. As an internship project at [DPS](https://digitalproductschool.io/)
+
+<!-- - __XYZ__. As an internship project at -->
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinajimenez26" alt="carolinajimenez26" /> </p> -->
 
 - 📫 How to reach me **carolina.jimenez.g@gmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
