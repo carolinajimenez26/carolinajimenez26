@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Carolina Jimenez Gomez</h1>
-<h3 align="center">Fast learner, hard working, willing to level up my career improving my skills and learning new things.</h3>
+<!-- <h1 align="center">Hi 👋, I'm Carolina Jimenez Gomez</h1> -->
+<p align="center">I'm Software Engineer with experience writing, debugging and testing code. Fast learner, hard working, willing to level up my career improving my skills and learning new things. I like encouraging people and teaching them what I know.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinajimenez26" alt="carolinajimenez26" /> </p>
 
