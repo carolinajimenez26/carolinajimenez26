@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - __A mobile application for Truck Drivers 📱🚚__. As an internship project at [DPS](https://digitalproductschool.io/). I used ReactNative and Firebase, to build a social network-like application for Truck drivers. 
 
-<!-- - __XYZ__. As an internship project at -->
+- __A web application that automates the processes for tractography generation 🧠__. As my bachelor's degree thesis. You can read it [here](http://repositorio.utp.edu.co/dspace/handle/11059/9433).
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinajimenez26" alt="carolinajimenez26" /> </p> -->
 
