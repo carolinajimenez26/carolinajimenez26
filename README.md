@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 - __A web application that automates the processes for tractography generation 🧠__. As my bachelor's degree thesis. You can read it [here](http://repositorio.utp.edu.co/dspace/handle/11059/9433).
 
+- __A web application to calculate a cuantitative value for brain's densitometry 🧠__. As a research assistant at [Grupo Sirius](https://sirius.utp.edu.co/). You can read the results [here](https://www.overleaf.com/project/58d9229f0df518ca6813171f).
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinajimenez26" alt="carolinajimenez26" /> </p> -->
 
 -------
