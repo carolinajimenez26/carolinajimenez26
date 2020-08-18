@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/carojimenez26_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carojimenez26_" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/carolinajimenez26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carolinajimenez26" height="30" width="30" /></a>
 <a href="https://medium.com/@carolinajimenez26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@carolinajimenez26" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/ucdh8rybvuifggyeazaniv0a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdh8rybvuifggyeazaniv0a" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCDH8RYbvuIFgGYeazAnIV0A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdh8rybvuifggyeazaniv0a" height="30" width="30" /></a>
 </p>
