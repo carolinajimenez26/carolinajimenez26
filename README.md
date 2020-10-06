@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <!-- <h1 align="center">Hi 👋, I'm Carolina Jimenez Gomez</h1> -->
 <h5 align="center">I'm Software Engineer with experience writing, debugging and testing code. Fast learner, hard worker, willing to level up my career improving my skills and learning new things. I like encouraging people and teaching them what I know.</h5>
-<h4 align="center"> 📢🚨 I'm currently looking for a new role Remote or in Munich, Germany 🇩🇪🥨 </h4>
 
 <h3> In the past I've built 👩‍💻: </h3>
 
