@@ -50,12 +50,9 @@ Here are some ideas to get you started:
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinajimenez26&layout=compact&hide=html" alt="carolinajimenez26" /></p>
 <!-- <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=carolinajimenez26&show_icons=true" alt="carolinajimenez26" /></p> -->
 
-<h3> Reach me out📫 </h3> 
-
-<p align="center"><b>carolina.jimenez.g@gmail.com ✉️ </b></p>
+<h3> Reach out to me 📫 </h3> 
 
 <p align="center">
-<a href="https://twitter.com/carojimenez26_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carojimenez26_" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/carolinajimenez26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carolinajimenez26" height="30" width="30" /></a>
 <a href="https://medium.com/@carolinajimenez26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@carolinajimenez26" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCDH8RYbvuIFgGYeazAnIV0A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucdh8rybvuifggyeazaniv0a" height="30" width="30" /></a>
