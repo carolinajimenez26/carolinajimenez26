@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <h3> In the past I've worked on 👩‍💻: </h3>
 
-- [Amazon](amazon.com) in internal projects and in the Gifting team.
+- __[Amazon](amazon.com)__ in internal projects and in the Gifting team.
 
-- [Check24](https://www.check24.de/) in the insurance portal as a Software Developer 
+- __[Check24](https://www.check24.de/)__ in the insurance portal as a Software Developer 
 
 - Building __[a new SSL Certificate Viewer](https://wiki.mozilla.org/Firefox_Security_Newsletter/FSN-2019#Firefox_Security) for Mozilla Firefox 🦊__. This was my internship project there. (Tip: you can see the project landed in Firefox, just typing _about:certificate_ in the search bar 🔥)
 
