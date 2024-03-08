@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinajimenez26&layout=compact&hide=html" alt="carolinajimenez26" /></p>
 <!-- <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=carolinajimenez26&show_icons=true" alt="carolinajimenez26" /></p> -->
 
-<h3> Reach out to me 📫 </h3> 
 
 <p align="center">
 <a href="https://linkedin.com/in/carolinajimenez26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carolinajimenez26" height="30" width="30" /></a>
