@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3> In the past I've worked on 👩‍💻: </h3>
 
-- __[Amazon](amazon.com)__ in internal projects and in the Gifting team.
+- __[Amazon](amazon.com)__ in internal projects and in the Retail page for Gifting team.
 
 - __[Check24](https://www.check24.de/)__ in the insurance portal as a Software Developer 
 
