@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 
 - Building __[a new SSL Certificate Viewer](https://wiki.mozilla.org/Firefox_Security_Newsletter/FSN-2019#Firefox_Security) for Mozilla Firefox 🦊__. This was my internship project there. (Tip: you can see the project landed in Firefox, just typing _about:certificate_ in the search bar 🔥)
 
-- Building __a web page for [jointDeveloper](https://jointdevweb.firebaseapp.com/photoGallery)__. As a volunteer. I used React and Firebase. You can see the source code [here](https://github.com/jointDeveloper/web). 
-
 - Building __a mobile application for Truck Drivers 📱🚚__. As an internship project at [DPS](https://digitalproductschool.io/). I used ReactNative and Firebase, to build a social network-like application for Truck drivers. 
-
-- Building __a web application that automates the processes for tractography generation 🧠__. As my bachelor's degree thesis. You can read it [here](http://repositorio.utp.edu.co/dspace/handle/11059/9433).
 
 - Building __a web application to calculate a cuantitative value for brain's densitometry 🧠__. As a research assistant at [Grupo Sirius](https://sirius.utp.edu.co/). You can read the results [here](https://www.overleaf.com/project/58d9229f0df518ca6813171f).
 
